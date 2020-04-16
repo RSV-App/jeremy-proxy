@@ -16,7 +16,9 @@
     "start": "node ./server/index.js"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "axios": "^0.19.2",
+    "express": "^4.16.4",
+    "newrelic": "^6.5.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
